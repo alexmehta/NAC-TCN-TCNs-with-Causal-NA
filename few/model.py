@@ -1,16 +1,14 @@
-from core.nt_tcn import TemporalConvNet
-# from core.tcn import TemporalConvNet
+from nt_tcn import TemporalConvNet
 import torch
 from pytorch_lightning import LightningModule
 from torch import nn
 from torchmetrics import Accuracy, F1Score, ROC, AUROC 
 from torch.optim import lr_scheduler
-from core.lstm import GRU, LSTM
+from lstm import GRU, LSTM
 from torchvision.models import regnet_y_400mf, regnet_y_800mf, regnet_y_1_6gf, regnet_y_3_2gf
 import random
 from torch.nn import functional as F
 import pandas as pd
-from core import vggface2
 from torchvision.models.feature_extraction import create_feature_extractor
 from torchmetrics import ConcordanceCorrCoef, PearsonCorrCoef
 
