@@ -1,6 +1,6 @@
 # NAC TCN Code
 
-Basic code for training models is in each directory. Please contact alexandermehta@outlook.com with any questions/co
+Basic code for training models is in each directory. Please contact alexandermehta@outlook.com with any questions.
 
 Please cite the following papers if you choose to use the code provided:
 
