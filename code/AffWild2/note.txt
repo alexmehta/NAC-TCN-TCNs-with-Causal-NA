@@ -1,0 +1,1 @@
+credit to Nguyen 22 [https://github.com/honghai-nguyen/ABAW3-VAEstimation] as mentioned in the paper for the base training code
