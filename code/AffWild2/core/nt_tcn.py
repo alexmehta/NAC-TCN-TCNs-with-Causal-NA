@@ -1,5 +1,5 @@
 """
-Author: Alexander Mehta (TCN code from Bai et al.)
+Author: Alexander Mehta (TCN part of code from Bai et al.)
 """
 import torch
 import torch.nn as nn
